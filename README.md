@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=ffd030&height=200&section=header&text=SOYEON's%20git&fontSize=50&animation=fadeIn&fontAlign=25&fontAlignY=27&fontColor=ffffff&rotate=-5)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=ffd030&height=200&section=header&text=shinequasar%20&fontSize=50&animation=fadeIn&fontAlign=25&fontAlignY=27&fontColor=ffffff&rotate=-5)
 
 🌱 I’m currently learning Computer science at kitri BoB!
 </br></br>
