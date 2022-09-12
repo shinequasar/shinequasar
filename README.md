@@ -26,7 +26,7 @@
 
 ## Frontend
 
-- HTML5, CSS, BootStrap5
+- HTML5, CSS, BootStrap5, 
 
 ## Collaboration
 
