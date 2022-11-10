@@ -26,8 +26,8 @@
 
 ## Backend 
 
-- JAVA , SpringBoot, JPA,, JUnit5, Mockito
-- GCP, ,PostgreSQL, Heroku
+- JAVA , SpringBoot, JPA, JUnit5, Mockito
+- GCP, PostgreSQL, Heroku
 - ERDCloud, DataGrip
 - Swagger 3.0
 
