@@ -11,31 +11,36 @@
 
 📌 **Tech** **Blog:**  [https://url.kr/68pao9](https://url.kr/68pao9)
 
-📌 **Web** **Site** : https://jungsoyeon.page
+📌 **Web** **Site** : https://jungsoyeon.page (수정 중)
 
 <hr>
 
 # 🛠️
-## Backend 
-
-- JAVA , SpringBoot, JPA, QueryDSL, JUnit5, Mockito
-- GCP, MySQL, PostgreSQL, Heroku, Ubuntu, Docker
-- ERDCloud, StarUML
-- DataGrip, Insomnia, Postman, Github-Action ,Google Domain
-- Swagger 3.0, RestDocs, Sentry&Logback
 
 ## Frontend
 
-- HTML5, CSS, BootStrap5, React.js, JavaScript
+- React.js , JavaScript
+- HTML/CSS, BootStrap5 Styled-components , TailwindCSS
+- Netlify, Vercel
+- Insomnia, Postman , Github-Action
+
+## Backend 
+
+- JAVA , SpringBoot, JPA,, JUnit5, Mockito
+- GCP, ,PostgreSQL, Heroku
+- ERDCloud, DataGrip
+- Swagger 3.0
 
 ## Collaboration
 
-- Github, Notion, Slack, JANDI
+- Git/Github , Git-flow
+- Notion, Slack, Figma
 - Agile, JIRA
 
 ## Others
 
-- R, Android Studio, Unity
+- Unity
+- 3Dx max, Nomad Sculpt
 
 
 
