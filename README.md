@@ -23,12 +23,6 @@
 - HTML/CSS, BootStrap5 Styled-components , TailwindCSS
 - Netlify, Vercel
 - Insomnia, Postman , Github-Action
-
-## Backend 
-
-- JAVA , SpringBoot, JPA, JUnit5, Mockito
-- GCP, PostgreSQL, Heroku
-- ERDCloud, DataGrip
 - Swagger 3.0
 
 ## Collaboration
@@ -38,7 +32,6 @@
 - Agile, JIRA
 
 ## Others
-
 - Unity
 - 3Dx max, Nomad Sculpt
 
