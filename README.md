@@ -11,14 +11,15 @@
 
 📌 **Tech** **Blog:**  [https://url.kr/68pao9](https://url.kr/68pao9)
 
-📌 **Web** **Site** : https://jungsoyeon.page (수정 중)
+📌 **Web** **Site** : https://jungsoyeon.page </br>
+> *2022.초반기까지 반영 된 웹사이트(수정 중)* </br>
+> (2022.10 프론트엔드로 전향. 새로운 사이트 플젝들 및 수정사항 웹 반영 예정)
 
 <hr>
 
 # 🛠️
 
 ## Frontend
-
 - React.js , JavaScript
 - HTML/CSS, BootStrap5 Styled-components , TailwindCSS
 - Netlify, Vercel
