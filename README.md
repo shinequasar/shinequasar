@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=AFD2E4&height=120&section=header&text=%20&fontSize=20&animation=fadeIn&fontAlign=25&fontAlignY=27&fontColor=ffffff&rotate=0)
-# shinequasar's git 🌱
+# Want's git 🌱
+밝은 에너지로 상상을 현실로 만드는 개발을 해나가는, 기록하는 개발자 정소연입니다
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F3BF1E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
