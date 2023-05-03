@@ -7,16 +7,9 @@
 [![shinequasar's github stats](https://github-readme-stats.vercel.app/api?username=shinequasar)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-📌 **Github:** [https://github.com/shinequasar](https://github.com/shinequasar)
-
 📌 **Tech** **Blog:**  [https://url.kr/68pao9](https://url.kr/68pao9)
 
 📌 **Web** **Site** : https://jungsoyeon.page </br>
-> *2022.초반기까지 반영 된 웹사이트(수정 중)* </br>
-> (2022.10 프론트엔드로 전향. 새로운 사이트 플젝들 및 수정사항 웹 반영 예정)
-> [전향이유가 궁금하다면?](https://blog.naver.com/PostView.naver?blogId=shinequasar&logNo=222878582414&parentCategoryNo=42&categoryNo=100&viewDate=&isShowPopularPosts=false&from=postView)
-
 <hr>
 
 # 🛠️
