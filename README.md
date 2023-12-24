@@ -31,7 +31,6 @@
 ## Others
 - Three.js, Phaser3
 - Unity
-- 3Dx max, Nomad Sculpt
 
 
 
